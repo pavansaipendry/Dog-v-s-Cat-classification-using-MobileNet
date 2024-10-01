@@ -8,7 +8,7 @@ This project demonstrates how to classify images of dogs and cats using transfer
 - **Model**: MobileNetV2 is used as a feature extractor to classify images of dogs and cats.
 - **Technologies**: TensorFlow, TensorFlow Hub, Keras, Python, Jupyter Notebook.
 
-### Project Steps
+### Project Steps:
 
 1. **Data Acquisition**: 
    - The dataset was downloaded from Kaggle using the Kaggle API.
